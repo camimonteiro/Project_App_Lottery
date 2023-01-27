@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		36E0662629816AC400BD7AD7 /* Lotery_APP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lotery_APP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		36E0662629816AC400BD7AD7 /* Lottery_APP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lottery_APP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36E0662929816AC400BD7AD7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		36E0662B29816AC400BD7AD7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		36E0662D29816AC400BD7AD7 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		36E0661D29816AC400BD7AD7 = {
 			isa = PBXGroup;
 			children = (
-				36E0662829816AC400BD7AD7 /* Lotery_APP */,
+				36E0662829816AC400BD7AD7 /* Lottery_APP */,
 				36E0662729816AC400BD7AD7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		36E0662729816AC400BD7AD7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				36E0662629816AC400BD7AD7 /* Lotery_APP.app */,
+				36E0662629816AC400BD7AD7 /* Lottery_APP.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		36E0662829816AC400BD7AD7 /* Lotery_APP */ = {
+		36E0662829816AC400BD7AD7 /* Lottery_APP */ = {
 			isa = PBXGroup;
 			children = (
 				36E0663D29817BEF00BD7AD7 /* Extensions */,
@@ -64,7 +64,7 @@
 				36E0663429816AC500BD7AD7 /* LaunchScreen.storyboard */,
 				36E0663729816AC500BD7AD7 /* Info.plist */,
 			);
-			path = Lotery_APP;
+			path = Lottery_APP;
 			sourceTree = "<group>";
 		};
 		36E0663D29817BEF00BD7AD7 /* Extensions */ = {
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		36E0662529816AC400BD7AD7 /* Lotery_APP */ = {
+		36E0662529816AC400BD7AD7 /* Lottery_APP */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 36E0663A29816AC500BD7AD7 /* Build configuration list for PBXNativeTarget "Lotery_APP" */;
+			buildConfigurationList = 36E0663A29816AC500BD7AD7 /* Build configuration list for PBXNativeTarget "Lottery_APP" */;
 			buildPhases = (
 				36E0662229816AC400BD7AD7 /* Sources */,
 				36E0662329816AC400BD7AD7 /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = Lotery_APP;
+			name = Lottery_APP;
 			productName = Lotery_APP;
-			productReference = 36E0662629816AC400BD7AD7 /* Lotery_APP.app */;
+			productReference = 36E0662629816AC400BD7AD7 /* Lottery_APP.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 36E0662129816AC400BD7AD7 /* Build configuration list for PBXProject "Lotery_APP" */;
+			buildConfigurationList = 36E0662129816AC400BD7AD7 /* Build configuration list for PBXProject "Lottery_APP" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				36E0662529816AC400BD7AD7 /* Lotery_APP */,
+				36E0662529816AC400BD7AD7 /* Lottery_APP */,
 			);
 		};
 /* End PBXProject section */
@@ -345,7 +345,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		36E0662129816AC400BD7AD7 /* Build configuration list for PBXProject "Lotery_APP" */ = {
+		36E0662129816AC400BD7AD7 /* Build configuration list for PBXProject "Lottery_APP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				36E0663829816AC500BD7AD7 /* Debug */,
@@ -354,7 +354,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		36E0663A29816AC500BD7AD7 /* Build configuration list for PBXNativeTarget "Lotery_APP" */ = {
+		36E0663A29816AC500BD7AD7 /* Build configuration list for PBXNativeTarget "Lottery_APP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				36E0663B29816AC500BD7AD7 /* Debug */,

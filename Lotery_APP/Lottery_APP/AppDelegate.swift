@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Lotery_APP
+//  Lottery_APP
 //
 //  Created by Cami on 25/01/23.
 //
